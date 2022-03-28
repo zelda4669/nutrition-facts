@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div>
+        <h1>Nutrition Label Generator</h1>
+        <p>
+            Input your list of ingredients below to generate a nutrition label for your recipe.
+        </p>
+    </div>
+    <div>
+        <form>
+            <label for="noservings">Number of Servings:</label>
+            <input type="number" id="noservings" name="noservings"><br>
+            <textarea id="ingredients" name="ingredients" rows="5" cols="50" placeholder="List all ingredients here, one ingredient per line"></textarea><br>
+            <input type="submit" value="Generate Label">
+        </form>
+    </div>
+    <div>
+        <h3>Suggestions:</h3>
+        <p>
+            Cooking oils are very calorie dense! Don't forget to include them
+        </p>
+    </div>
+{% endblock %}

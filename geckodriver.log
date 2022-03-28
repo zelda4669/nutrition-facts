@@ -1,0 +1,43 @@
+1648176311605	geckodriver	INFO	Listening on 127.0.0.1:52593
+1648176314668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52594" "-no-remote" "-profile" "C:\\Users\\ferra\\AppData\\Local\\Temp\\rust_mozprofile33XI2f"
+1648176315829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferra\\AppData\\Local\\Temp\\rust_mozprofile33XI2f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52594/devtools/browser/9305277c-b9a6-4e76-a584-7f6b9f2cbd00
+1648176319933	Marionette	INFO	Listening on port 52600
+1648176319994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648176326727	Marionette	INFO	Stopped listening on port 52600
+1648433519092	geckodriver	INFO	Listening on 127.0.0.1:64751
+1648433522152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64752" "-no-remote" "-profile" "C:\\Users\\ferra\\AppData\\Local\\Temp\\rust_mozprofile0vjQEo"
+1648433523273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferra\\AppData\\Local\\Temp\\rust_mozprofile0vjQEo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64752/devtools/browser/5e72dd49-b4a6-4eb9-8ad1-a3ba57cfe49c
+1648433525957	Marionette	INFO	Listening on port 64758
+1648433526373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1648433526563	Marionette	INFO	Stopped listening on port 64758
+JavaScript error: resource://services-settings/Utils.jsm, line 154: TypeError: NetworkError: Network request failed
+1648434111087	geckodriver	INFO	Listening on 127.0.0.1:65363
+1648434114157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "65364" "-no-remote" "-profile" "C:\\Users\\ferra\\AppData\\Local\\Temp\\rust_mozprofilebNgON1"
+1648434114657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferra\\AppData\\Local\\Temp\\rust_mozprofilebNgON1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65364/devtools/browser/cd4ac2a4-4831-4f14-87bf-656b7b6ecb92
+1648434117338	Marionette	INFO	Listening on port 65370
+1648434117367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1648434117609	Marionette	INFO	Stopped listening on port 65370
+JavaScript error: resource://services-settings/RemoteSettingsWorker.jsm, line 46: RemoteSettingsWorkerError: Remote Settings has shut down.
+1648434166874	geckodriver	INFO	Listening on 127.0.0.1:65453
+1648434169929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "65454" "-no-remote" "-profile" "C:\\Users\\ferra\\AppData\\Local\\Temp\\rust_mozprofileD1yk0P"
+1648434170314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ferra\\AppData\\Local\\Temp\\rust_mozprofileD1yk0P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65454/devtools/browser/4cdc8bf3-687e-4535-ad27-d5ddf560c7df
+1648434172521	Marionette	INFO	Listening on port 65463
+1648434172590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1648434173213	Marionette	INFO	Stopped listening on port 65463
+[Parent 2732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://services-settings/Utils.jsm, line 154: TypeError: NetworkError: Network request failed
+[Parent 2732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
